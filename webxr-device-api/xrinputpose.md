@@ -29,7 +29,7 @@ The **`XRInputSource`** interface of the of the WebXR API returns information ab
       </tr>
       <tr>
         <td><code>'screen'</code></td>
-        <td>The input source was an interaction with the 2D canvas of a non-exclusive session, such as a mouse click or touch event.</td>
+        <td>The input source was an interaction with the 2D canvas of a non-immersive session, such as a mouse click or touch event.</td>
       </tr>
     </tbody>
   </table>
